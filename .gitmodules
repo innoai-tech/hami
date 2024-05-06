@@ -1,0 +1,3 @@
+[submodule "HAMi"]
+	path = HAMi
+	url = https://github.com/Project-HAMi/HAMi.git
