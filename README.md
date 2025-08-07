@@ -1,13 +1,6 @@
-# Custom build for HAMi
+# Custom build for [HAMi](https://github.com/Project-HAMi/HAMi)
 
-* multi-arch supported.
-
-Now stable value is `v2.3.9`
-
-## Changes
-
-https://github.com/Project-HAMi/HAMi/compare/v2.3.9...morlay:patch-v2.3.9
-
+Now stable value is `v2.6.1`
 
 ## Images
 
